@@ -33,7 +33,7 @@
 
 Following these steps, you'll have a ready-to-use website that you can customize to meet your needs and share with others.
 
-##Install
+<h1>Install</h1>
 
 Either via ZIP download or cloning using Git.
 Server Setup:
