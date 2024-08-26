@@ -32,3 +32,20 @@
    - Once the theme is activated, you can start editing the content through the WordPress dashboard. Text, images, colors, and other elements can be easily customized.
 
 Following these steps, you'll have a ready-to-use website that you can customize to meet your needs and share with others.
+
+##Install
+
+Either via ZIP download or cloning using Git.
+Server Setup:
+
+Make sure you have WordPress installed.
+Move files to the WordPress folder.
+Database Setup:
+
+Create a new database.
+Update wp-config.php file.
+Site Operation:
+
+Perform the installation process.
+Log in to Control Panel.
+With these steps, you can successfully download the site from GitHub and install it on your server.
